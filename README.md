@@ -3,7 +3,8 @@
 <br>
 
 ### 初期画面
-<img width="1194" alt="" src="https://user-images.githubusercontent.com/45383028/70245700-e06f4a80-17b9-11ea-9d45-b9a155bb914b.png">
+![life](https://user-images.githubusercontent.com/45383028/70251054-334d0000-17c2-11ea-994a-92626d0db381.gif)
+
 <br>
 <br>
 
