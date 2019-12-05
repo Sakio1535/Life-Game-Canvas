@@ -1,7 +1,4 @@
 // Game Of Life
-// 2019/12/05
-// created by sakio
-// inspired by The Coding Train
 
 int[][] grid;
 int cols;
